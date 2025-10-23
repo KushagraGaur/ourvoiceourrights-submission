@@ -1,0 +1,7 @@
+{
+  "name": "our-voice-our-rights",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "cd backend && node server.js"
+  }
+}
